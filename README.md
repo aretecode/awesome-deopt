@@ -60,3 +60,11 @@
 - https://github.com/RisingStack/trace-nodejs
 - https://nodejs.org/api/cli.html
 - https://github.com/nodejs/node/tree/master/benchmark
+
+### more
+- https://stackoverflow.com/questions/38598175/v8-doesnt-optimize-function-after-manually-doing-typed-array-sets
+- https://github.com/bnoordhuis/v8-git-mirror/blob/master/src/deoptimizer.h
+- http://mrale.ph/blog/2011/12/18/v8-optimization-checklist.html
+- https://www.youtube.com/watch?v=UJPdhx5zTaw
+- https://v8.paulfryzel.com/docs/master/deoptimize-reason_8h_source.html
+
